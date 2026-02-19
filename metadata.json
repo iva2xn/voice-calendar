@@ -1,0 +1,5 @@
+{
+  "name": "Voice Calendar",
+  "description": "A real-time voice-controlled calendar assistant using Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
